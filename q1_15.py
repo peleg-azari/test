@@ -41,6 +41,6 @@ def subset_sum_algo(numbers, subset_sum):
     return final == subset_sum
 
 def stupid(number):
-    print(number)
+    print(range(number))
 
 
