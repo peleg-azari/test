@@ -40,7 +40,7 @@ def subset_sum_algo(numbers, subset_sum):
     final, lst = Choose_customers(new_lst, subset_sum) # calling
     return final == subset_sum
 
-def stupid(number)
+def stupid(number):
     print(number)
 
 
